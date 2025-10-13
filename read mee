@@ -1,4 +1,4 @@
 cd ocs01-test
 cd octra_pre_client-testnet
 ./target/release/ocs01-test
-4456
+445655
